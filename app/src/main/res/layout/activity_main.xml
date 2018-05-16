@@ -35,7 +35,7 @@
         android:id="@+id/tv_city_name"
         android:textSize="25dp"
         android:layout_marginTop="10dp"
-        android:textColor="@color/colorBack"
+        android:textColor="@color/colorBlack"
 
         />
     <TextView
@@ -45,7 +45,7 @@
         android:id="@+id/tv_country_name"
         android:textSize="25dp"
         android:layout_marginTop="2dp"
-        android:textColor="@color/colorBack"
+        android:textColor="@color/colorBlack"
         />
     <ImageView
         android:id="@+id/im_item"
@@ -70,7 +70,7 @@
         android:textSize="25dp"
         android:layout_marginTop="2dp"
         android:layout_width="wrap_content"
-        android:textColor="@color/colorBack"
+        android:textColor="@color/colorBlack"
         android:layout_height="wrap_content" />
     <LinearLayout
         android:weightSum="3"
@@ -159,7 +159,7 @@
     <Button
         android:layout_marginTop="10dp"
         android:id="@+id/bt_next_day"
-        android:textColor="@color/colorBack"
+        android:textColor="@color/colorBlack"
         android:text="Các ngày tiếp theo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
